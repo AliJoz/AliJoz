@@ -1,8 +1,12 @@
-# سلام! 👋  
+# سلام! 👋
 ### من **علیرضا** هستم، یک توسعه‌دهنده با علاقه به کدنویسی و ساختن پروژه‌های جذاب!
+
+---
 
 ## درباره من:
 من علاقه‌مند به دنیای توسعه وب هستم و در حال حاضر در مسیر یادگیری و پیشرفت در زمینه‌های مختلف کدنویسی قدم می‌زنم. با ترکیب مهارت‌های فعلی و یادگیری ابزارهای جدید، مثل **Node.js**، سعی دارم دانش خود را هر روز بیشتر کنم و به توسعه فول‌استک برسم.
+
+---
 
 ## مهارت‌ها
 
@@ -21,6 +25,7 @@
 ![Livewire](https://img.shields.io/badge/-Livewire-FF69B4?style=flat&logo=livewire&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
 
 ### ابزارهای استایل‌دهی:
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
@@ -35,9 +40,33 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![PWA](https://img.shields.io/badge/-PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
+![Pug](https://img.shields.io/badge/-Pug-A86454?style=flat&logo=pug&logoColor=white)
+
+---
 
 ## در حال یادگیری:
-من به تازگی یادگیری **Node.js** و **Express** رو شروع کردم. این ابزارها به من کمک می‌کنند که مسیر توسعه فول‌استک رو کامل کنم و بتونم برنامه‌های سمت سرور رو به بهترین شکل بسازم. اگر شما هم به این حوزه علاقه دارید، خوشحال می‌شم با هم درباره پروژه‌های جدید صحبت کنیم!
+من به تازگی یادگیری ابزارهای زیر را شروع کرده‌ام که به من کمک می‌کنند مسیر توسعه فول‌استک را کامل کنم و برنامه‌های سمت سرور را به بهترین شکل بسازم:
+
+- **Node.js** و **Express** برای توسعه سمت سرور
+- **Mongoose** برای ارتباط با پایگاه داده MongoDB
+- **Pug** برای موتور قالب‌سازی سمت سرور
+
+اگر شما هم به این حوزه علاقه دارید، خوشحال می‌شم با هم درباره پروژه‌های جدید صحبت کنیم!
+
+---
+
+## پروژه‌ها:
+
+### 📂 [پروژه فروشگاه آنلاین](https://github.com/Alirezajoz/shop-project)
+- توسعه با Node.js، Express، MongoDB و Mongoose
+- طراحی ریسپانسیو با استفاده از Tailwind CSS
+
+### 📂 [مدیریت وظایف](https://github.com/Alirezajoz/task-manager)
+- پیاده‌سازی REST API با Express
+- موتور قالب‌سازی Pug برای صفحات وب
+
+---
 
 ## علاقه‌مندی‌ها:
 - 📚 خواندن کتاب
@@ -45,23 +74,25 @@
 - 🎮 گیم
 - 🏋️ باشگاه
 
+---
+
 ## راه‌های ارتباطی:
 - 📫 ایمیل: [www.alirez00joz@gmail.com](mailto:www.alirez00joz@gmail.com)
 - 💼 لینکدین: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Alirezajoz)
 - 💬 تلگرام: [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Alirezajoz)
 
-## گیتم رو چک کن!
-پروژه‌ها و نمونه‌کارهای من رو در GitHub می‌تونید ببینید. به زودی پروژه‌های نود جی‌اس بیشتری قرار می‌دم. [GitHub من](https://github.com/Alirezajoz)
-
 ---
 
-## GitHub Stats
+## GitHub Stats:
 
 | Stats | Top Languages |
 |-------|---------------|
+![GitHub Streak](https://streak-stats.demolab.com?user=Alijoz&theme=dark&date_format=M%20j&ring=FF9D00&fire=FF9D00&currStreakLabel=FF9D00) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alijoz&layout=compact&theme=dark) |
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Alijoz&theme=dark&date_format=M%20j&ring=FF9D00&fire=FF9D00&currStreakLabel=FF9D00)
+### 🎉 Achievements:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Alijoz&theme=darkhub)
 
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alijoz&layout=compact&theme=dark)
+از اینکه پروفایل من را بررسی کردید متشکرم! 🌟
 
